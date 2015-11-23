@@ -6,7 +6,7 @@ This repository contains **Dockerfile** of a [Craps Simulator](http://github.com
 
 ### Base Docker Image
 
-* [dockerfile/centos](http://dockerfile.github.io/_/centos)
+* [dockerfile/centos](https://hub.docker.com/_/centos/)
 
 
 ### Installation
